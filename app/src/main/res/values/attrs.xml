@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <attr name="typeface" format="string"/>
+
+    <declare-styleable name="TypefaceTextView">
+        <attr name="typeface"/>
+    </declare-styleable>
+
+    <declare-styleable name="MeterWidget">
+        <attr name="circle_vale" format="float"></attr>
+        <attr name="thikness" format="float"></attr>
+        <attr name="radius" format="float"></attr>
+        <attr name="out_circle_fill_color" format="color"></attr>
+        <attr name="in_circle_fill_color" format="color"></attr>
+        <attr name="setDigreeText" format="string"></attr>
+        <attr name="setDigreeTextSize" format="integer"></attr>
+        <attr name="setDigreeTextX" format="float"></attr>
+        <attr name="setDigreeTextY" format="float"></attr>
+    </declare-styleable>
+
+
+
+</resources>
